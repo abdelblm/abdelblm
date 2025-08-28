@@ -90,7 +90,7 @@ During my time at Digishare, I was responsible for developing and enhancing web 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelblm&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelblm&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=abdelblm&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
